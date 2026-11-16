@@ -221,6 +221,16 @@ export default function App() {
       {/* 메인 콘텐츠 */}
       <main className="flex-1 max-w-6xl w-full mx-auto px-4 sm:px-6 py-6 sm:py-8">
 
+        {/* 꿈나라 교실 기본 홈으로 돌아가기 */}
+        <div className="mb-5">
+          <a
+            href="https://hyeri-yu.github.io/hahaha-ras/"
+            className="inline-flex items-center rounded-full bg-[#F3EAF7] px-4 py-3 text-sm font-semibold text-[#755582] transition-colors hover:bg-[#EADCF0] focus:outline-none focus:ring-2 focus:ring-[#B99AC8] focus:ring-offset-2"
+          >
+            ← 꿈나라 교실로
+          </a>
+        </div>
+
         {/* 사이트 제목 및 소개 */}
         <div className="mb-7">
           <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight mb-2">
