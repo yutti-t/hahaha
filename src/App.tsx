@@ -224,7 +224,7 @@ export default function App() {
         {/* 꿈나라 교실 기본 홈으로 돌아가기 */}
         <div className="mb-5">
           <a
-            href="https:/yutti-t.github.io/hahaha-ras/"
+            href="https://yutti-t.github.io/hahaha-ras/"
             className="inline-flex items-center rounded-full bg-[#F3EAF7] px-4 py-3 text-sm font-semibold text-[#755582] transition-colors hover:bg-[#EADCF0] focus:outline-none focus:ring-2 focus:ring-[#B99AC8] focus:ring-offset-2"
           >
             ← 꿈나라 교실로
